@@ -71,7 +71,7 @@ We implemented a **Breadth-First Search (BFS)** algorithm to efficiently explore
 - **Total API requests made**: 3,480
 - **Time taken**: 4,596.22 seconds
 
-## Usage
+## Requirements
 
 1. **Install required packages:**
  requests==2.28.1
